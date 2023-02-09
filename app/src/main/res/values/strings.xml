@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WiFiTest</string>
+    <string name="splash_text1">WiFi Tester</string>
+    <string name="to_auth">Начать</string>
+    <string name="splash_text2">или используйте для входа</string>
+    <string name="info">Инфо</string>
+    <string name="to_start">Запустить проверку</string>
+    <string name="to_check">Запустить проверку</string>
+    <string name="manager">manager</string>
+    <string name="api_forwarder">api_forwarder</string>
+    <string name="edge_01">edge_01</string>
+    <string name="regions">regions</string>
+    <string name="lang">lang</string>
+    <string name="dash">dash</string>
+    <string name="to_test">Тест скорости</string>
+    <string name="speed">Cкорость: 67 МБ/C | PING: 23 MS</string>
+    <string name="speed_percent">0-100 %</string>
+    <string name="speed_server">CЕРВЕР: DC-EDGE01-SSS.TV.COM</string>
+    <string name="to_clear">Очистить</string>
+    <string name="enter_ssid_text">SSID</string>
+    <string name="enter_ip_text">IP</string>
+    <string name="enter_mask_address_text">Macка</string>
+    <string name="enter_shluz_text">Шлюз</string>
+    <string name="enter_dns_text">ДНС</string>
+
+</resources>
